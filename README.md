@@ -1,6 +1,7 @@
 # MyStudyOfJavaScript
 
 ##Informações do Curso
+
 **Título**: Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express
 
 **Professor**: Matheus Battisti
@@ -8,6 +9,7 @@
 **Link**: https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/
 
 ##Resumo do Curso
+
 JavaScript é uma das linguagens mais utilizadas atualmente, tanto para o front-end quanto para o back-end, neste curso você vai aprender desde os conceitos mais básicos da linguagem até o que há de mais avançado.
 
 Isso com base em mais de 40 exercícios práticos e 3 projetos (tanto com JavaScript puro e para web, como também para web com Node, Express, Sequelize, Handlebars e etc...). É importante citar também que o curso tem mais de 22 horas de muito aprendizado para você.
