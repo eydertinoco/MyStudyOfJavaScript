@@ -1,6 +1,6 @@
 # MyStudyOfJavaScript
 
-##Informações do Curso
+## Informações do Curso
 
 **Título**: Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express
 
@@ -8,7 +8,7 @@
 
 **Link**: https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/
 
-##Resumo do Curso
+## Resumo do Curso
 
 JavaScript é uma das linguagens mais utilizadas atualmente, tanto para o front-end quanto para o back-end, neste curso você vai aprender desde os conceitos mais básicos da linguagem até o que há de mais avançado.
 
